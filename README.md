@@ -5,3 +5,4 @@ pip install gdal
 pip install earthpy
 
 These packages require C++ build dependencies so be sure to install Visual C++ 14.0 or higher. If you want to avoid all hussle of installing packages then just opt for Google Colab.
+Be sure to upload images and ground truth file from The Sundarbans Dataset. For ease I am also uploading the data with this repository
